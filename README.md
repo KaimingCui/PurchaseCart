@@ -16,4 +16,12 @@ Paging query is implemented. I did not use any database for this project. All da
 * jstl,el
 
 ## show result
-![product list]()
+![product list](https://github.com/KaimingCui/PurchaseCart/blob/master/1.png)  
+
+![product details](https://github.com/KaimingCui/PurchaseCart/blob/master/2.png)  
+
+![cart](https://github.com/KaimingCui/PurchaseCart/blob/master/3.png)  
+
+![settlement](https://github.com/KaimingCui/PurchaseCart/blob/master/4.png)  
+
+![favorite list](https://github.com/KaimingCui/PurchaseCart/blob/master/5.png)  
