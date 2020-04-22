@@ -101,7 +101,7 @@
                                 <span>${product.level}</span>
                                 <span>
                                     <a href="${pageContext.request.contextPath}/cart/cart.do?productId=${product.id}">
-                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;添加
                                     </a>
                                 </span>
                                 <a href="${pageContext.request.contextPath}/favorite/favorite.do?productId=${product.id}">
